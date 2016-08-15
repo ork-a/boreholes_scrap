@@ -1,4 +1,4 @@
-Sketch version of JS-rendered web-scrapping app.
+Sketch version of JS-rendered web-scraping app.
 Uses selenium library for extracting info from http://otworywiertnicze.pgi.gov.pl/
 Results open in Chrome browser.
 
