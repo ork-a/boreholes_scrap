@@ -1,13 +1,15 @@
 Sketch version of JS-rendered web-scrapping app.
 Uses selenium library for extracting info from http://otworywiertnicze.pgi.gov.pl/
+Results open in Chrome browser.
 
 How to:
+1. Install Chrome and Selenium library for Python 3.
 
-1. DL project files and last version of chromedriver from http://chromedriver.storage.googleapis.com/index.html
+2. DL project files and last version of chromedriver from http://chromedriver.storage.googleapis.com/index.html
 
-2. Unzip chromedriver and copy path location of the file (e.g. C:\Users\Username\Desktop\projects\boreholes\chromedriver.exe).
+3. Unzip chromedriver and copy path location of the file (e.g. C:\Users\Username\Desktop\projects\boreholes\chromedriver.exe).
 
-3. Launch main.py.
+4. Launch main.py.
 
 So far:
 - input check,
