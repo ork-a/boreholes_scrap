@@ -3,6 +3,7 @@ Uses selenium library for extracting info from http://otworywiertnicze.pgi.gov.p
 Results open in Chrome browser.
 
 How to:
+
 1. Install Chrome and Selenium library for Python 3.
 
 2. DL project files and last version of chromedriver from http://chromedriver.storage.googleapis.com/index.html
